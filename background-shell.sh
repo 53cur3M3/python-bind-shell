@@ -1,2 +1,2 @@
 #!/bin/bash
-./python-bind-shell.py &
+/tmp/python-bind-shell.py &
